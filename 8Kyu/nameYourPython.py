@@ -4,8 +4,10 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def Python(s):
-    name = s
+class Python(object):
+    def __init__(self, name):
+        self.name = name
+
 
 
 # Press the green button in the gutter to run the script.
