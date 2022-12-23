@@ -9,5 +9,4 @@ def shortcut(s):
 
 
 if __name__ == '__main__':
-    print(shortcut('hello'))
-    print(shortCut('welcome to new york'))
+    print(shortcut('welcome to new york'))
