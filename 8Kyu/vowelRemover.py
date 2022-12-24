@@ -7,6 +7,6 @@ def shortcut(s):
     s = s.replace('u', '')
     return s
 
-
 if __name__ == '__main__':
     print(shortcut('welcome to new york'))
+
